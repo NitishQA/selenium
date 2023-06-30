@@ -17,6 +17,7 @@ public class WAPtoPrintStarPattern1 {
 			
 			}
 			System.out.println();
+                        System.out.println("Hello World");
 			
 		}
 
